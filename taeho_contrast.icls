@@ -1,10 +1,10 @@
 <scheme name="Taeho Contrast" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-03-27T15:10:32</property>
+    <property name="created">2018-03-27T15:32:45</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-03-27T15:10:36</property>
+    <property name="modified">2018-03-27T15:32:54</property>
     <property name="originalScheme">Taeho Contrast</property>
   </metaInfo>
   <font>
@@ -48,7 +48,7 @@
     <option name="GUTTER_BACKGROUND" value="202020" />
     <option name="INDENT_GUIDE" value="353535" />
     <option name="INFORMATION_HINT" value="b0a09" />
-    <option name="LINE_NUMBERS_COLOR" value="dfdfdd" />
+    <option name="LINE_NUMBERS_COLOR" value="555555" />
     <option name="METHOD_SEPARATORS_COLOR" value="3c3f41" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
