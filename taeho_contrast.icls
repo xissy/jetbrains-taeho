@@ -1,10 +1,10 @@
 <scheme name="Taeho Contrast" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-03-27T15:32:45</property>
+    <property name="created">2018-04-06T22:31:57</property>
     <property name="ide">GoLand</property>
-    <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-03-27T15:32:54</property>
+    <property name="ideVersion">2018.1.0.0</property>
+    <property name="modified">2018-04-06T22:32:06</property>
     <property name="originalScheme">Taeho Contrast</property>
   </metaInfo>
   <font>
@@ -137,12 +137,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLADE_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -1043,11 +1037,6 @@
     <option name="GO_TYPE_REFERENCE">
       <value>
         <option name="FOREGROUND" value="f8bb39" />
-      </value>
-    </option>
-    <option name="GO_TYPE_SPECIFICATION">
-      <value>
-        <option name="FOREGROUND" value="d62c3a" />
       </value>
     </option>
     <option name="HAML_TAG">
@@ -68587,7 +68576,6 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="fdc536" />
@@ -68622,7 +68610,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="7a7267" />
@@ -68660,13 +68647,11 @@
         <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
-    <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.STRING">
       <value>
         <option name="FOREGROUND" value="f8bb39" />
       </value>
     </option>
-    <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
     <option name="Parentheses">
       <value>
         <option name="FOREGROUND" value="e6e6d1" />
