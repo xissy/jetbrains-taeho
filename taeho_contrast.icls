@@ -1,12 +1,13 @@
 <scheme name="Taeho Contrast" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-04-06T22:31:57</property>
-    <property name="ide">GoLand</property>
-    <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-04-06T22:32:06</property>
+    <property name="created">2019-01-08T12:26:29</property>
+    <property name="ide">AppCode</property>
+    <property name="ideVersion">2018.3.2.0.0</property>
+    <property name="modified">2019-01-08T12:26:41</property>
     <property name="originalScheme">Taeho Contrast</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -672,11 +673,7 @@
         <option name="FOREGROUND" value="f8bb39" />
       </value>
     </option>
-    <option name="DEFAULT_FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="e9dcba" />
-      </value>
-    </option>
+    <option name="DEFAULT_FUNCTION_CALL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="c86478" />
@@ -68163,7 +68160,7 @@
     </option>
     <option name="OC.CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="f55d79" />
+        <option name="FOREGROUND" value="a4ccc0" />
       </value>
     </option>
     <option name="OC.COMMA">
@@ -68204,21 +68201,6 @@
         <option name="FOREGROUND" value="e6e6d1" />
       </value>
     </option>
-    <option name="OC.FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="1f8181" />
-      </value>
-    </option>
-    <option name="OC.GENERIC_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="f8bb39" />
-      </value>
-    </option>
-    <option name="OC.GLOBAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="eeffe3" />
-      </value>
-    </option>
     <option name="OC.HEADER_PATH">
       <value>
         <option name="FOREGROUND" value="e6ffd6" />
@@ -68233,11 +68215,6 @@
     <option name="OC.IVAR">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
-      </value>
-    </option>
-    <option name="OC.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="f2bc79" />
       </value>
     </option>
     <option name="OC.LABEL">
@@ -68268,16 +68245,8 @@
         <option name="FOREGROUND" value="f28972" />
       </value>
     </option>
-    <option name="OC.MESSAGE_ARGUMENT">
-      <value>
-        <option name="FOREGROUND" value="1f8181" />
-      </value>
-    </option>
-    <option name="OC.NAMESPACE_LIKE">
-      <value>
-        <option name="FOREGROUND" value="f55d79" />
-      </value>
-    </option>
+    <option name="OC.MESSAGE_ARGUMENT" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="OC.METHOD_DECLARATION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="OC.NUMBER">
       <value>
         <option name="FOREGROUND" value="f28972" />
@@ -68293,11 +68262,6 @@
         <option name="FOREGROUND" value="e6e6d1" />
       </value>
     </option>
-    <option name="OC.PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="f28972" />
-      </value>
-    </option>
     <option name="OC.PARENTHS">
       <value>
         <option name="FOREGROUND" value="e6e6d1" />
@@ -68305,13 +68269,7 @@
     </option>
     <option name="OC.PROPERTY">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
-      </value>
-    </option>
-    <option name="OC.PROPERTY_ATTRIBUTE">
-      <value>
-        <option name="FOREGROUND" value="eeffe3" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="FOREGROUND" value="e9dcba" />
       </value>
     </option>
     <option name="OC.PROTOCOL_REFERENCE">
@@ -68330,11 +68288,6 @@
         <option name="FOREGROUND" value="e6e6d1" />
       </value>
     </option>
-    <option name="OC.STRING">
-      <value>
-        <option name="FOREGROUND" value="f8bb39" />
-      </value>
-    </option>
     <option name="OC.STRUCT_FIELD">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
@@ -68342,7 +68295,7 @@
     </option>
     <option name="OC.STRUCT_LIKE">
       <value>
-        <option name="FOREGROUND" value="f55d79" />
+        <option name="FOREGROUND" value="aeb931" />
       </value>
     </option>
     <option name="OC.TEMPLATE_TYPE">
@@ -69610,11 +69563,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="com.plan9.IDENTIFIER" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="com.plan9.INSTRUCTION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="com.plan9.LABEL" baseAttributes="DEFAULT_LABEL" />
-    <option name="com.plan9.PSEUDO_INSTRUCTION" baseAttributes="com.plan9.INSTRUCTION" />
-    <option name="com.plan9.REGISTER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="osmorc.headerName">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
